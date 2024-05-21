@@ -1,0 +1,11 @@
+body {
+    font-family: -apple-system, "Nunito Sans", BlinkMacSystemFont, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans",sans-serif;
+}
+
+.fw-600 {
+    font-weight: 800 !important;
+}
+
+.fw-900 {
+    font-weight: 900 !important;
+}
